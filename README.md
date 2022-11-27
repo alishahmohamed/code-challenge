@@ -20,7 +20,7 @@ Change Directory: [cd code-challenge]
 
 ```
 # Contact Informantion
-Incase of any enquiries or contributions, be sure to email me at [mohamedasia021@gmail.com]()
+Incase of any enquiries or contributions, be sure to email me at [alisharuuney01@gmail.com]()
 
 # License
       MIT Licence
